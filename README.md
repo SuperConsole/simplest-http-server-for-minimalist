@@ -28,6 +28,7 @@ A simple server start on port:3000;
 after this, input your wep-static-project-directory.
 ```
 localhost:3000/yourProjectName/
+localhost:3000/yourProjectName/index.html
 ```
 
 LET'S DO THE Minimal Developments!!!
