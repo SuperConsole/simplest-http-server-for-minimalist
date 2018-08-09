@@ -8,6 +8,7 @@ $npm install connect serve-static
 put this "server.js" to npm root.
 and,
 ```
+$npm install //(optional)
 $node server.js
 ```
 
