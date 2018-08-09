@@ -1,7 +1,7 @@
 # simplest-http-server-for-minimalist
 
 ```
-$node init
+$npm init
 $npm install connect serve-static 
 ```
 
