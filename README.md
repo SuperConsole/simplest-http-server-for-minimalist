@@ -10,8 +10,10 @@ put this "server.js" and static-http-project (example,"yourProjectName") to npm 
 ```
 server-root
 |_>npm_modules
-|_>package.js
-|_>package-lock.js
+| |_>...
+|
+|_>package.json
+|_>package-lock.json
 |
 |_>yourProjectName
   |_>index.html
