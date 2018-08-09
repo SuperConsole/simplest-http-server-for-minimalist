@@ -14,7 +14,7 @@ server-root
 |_>package-lock.js
 |
 |_>yourProjectName
-  |_>index.html //needed
+  |_>index.html
   |_>etc{js,css,images,...}
 ```
 
