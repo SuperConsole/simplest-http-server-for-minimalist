@@ -1,5 +1,6 @@
 # simplest-http-server-for-minimalist
 
+set node.
 ```
 $npm init
 $npm install connect serve-static 
@@ -17,7 +18,7 @@ server-root
   |_>etc{js,css,images,...}
 ```
 
-and set up server
+and set up server.
 ```
 $npm install //(optional)
 $node server.js
