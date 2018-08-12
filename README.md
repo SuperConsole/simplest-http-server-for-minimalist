@@ -8,7 +8,7 @@ $npm install connect serve-static
 
 put this "server.js" and static-http-project (example,"yourProjectName") to npm root.
 ```
-server-root
+npm-root
 |_>npm_modules
 | |_>...
 |
