@@ -42,7 +42,7 @@ connect().use(serveStatic(__dirname)).listen( XXXX , function(){
     console.log('->port: XXXX ');
 });
 
-"XXXX" re-write to you need.
+XXXX re-write to you need.(default:3000)
 ```
 
 LET'S DO THE Minimal Developments!!!
