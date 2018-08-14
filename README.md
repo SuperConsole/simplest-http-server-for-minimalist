@@ -38,8 +38,8 @@ edit server.js like this.
 ```
 const connect = require('connect');
 const serveStatic = require('serve-static');
-connect().use(serveStatic(__dirname)).listen(**XXXX**, function(){
-    console.log('->port:**XXXX**');
+connect().use(serveStatic(__dirname)).listen( **XXXX** , function(){
+    console.log('->port: **XXXX** ');
 });
 
 "XXXX" re-write to you need.
