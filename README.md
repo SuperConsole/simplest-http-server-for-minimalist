@@ -1,6 +1,6 @@
 # simplest-http-server-for-minimalist
 
-set node.
+init Node.js and install these library(connect, serve-static)
 ```
 $npm init
 $npm install connect serve-static 
@@ -20,7 +20,7 @@ npm-root
   |_>etc{js,css,images,...}
 ```
 
-and set up server.
+and run this server.
 ```
 $npm install //(optional)
 $node server.js
@@ -31,6 +31,12 @@ after this, input your wep-static-project-directory.
 ```
 localhost:3000/yourProjectName/
 localhost:3000/yourProjectName/index.html
+```
+
+if you need change port number
+edit server.js like this.
+```
+
 ```
 
 LET'S DO THE Minimal Developments!!!
