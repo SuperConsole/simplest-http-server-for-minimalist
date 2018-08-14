@@ -36,7 +36,13 @@ localhost:3000/yourProjectName/index.html
 if you need change port number
 edit server.js like this.
 ```
+const connect = require('connect');
+const serveStatic = require('serve-static');
+connect().use(serveStatic(__dirname)).listen(*XXXX*, function(){
+    console.log('->port:*XXXX*');
+});
 
+"XXXX" re-write to you need.
 ```
 
 LET'S DO THE Minimal Developments!!!
